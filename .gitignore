@@ -7,7 +7,7 @@
 ./src/static/*
 /__pycache__
 src/mydjango/__pycache__/settings.cpython-35.pyc
-*/static/
+# */static/
 .DS_Store
 .env
 **/.DS_Store
